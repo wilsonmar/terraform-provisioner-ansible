@@ -10,5 +10,5 @@ require (
 	github.com/pkg/sftp v1.12.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
+	golang.org/x/crypto v0.1.0
 )
